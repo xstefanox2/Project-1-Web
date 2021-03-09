@@ -1,0 +1,53 @@
+[33mcommit d3bbd79fad4dcb5586151da34e249d1baeac11aa[m[33m ([m[1;36mHEAD -> [m[1;32mproduction-angular[m[33m, [m[1;31morigin/production-angular[m[33m)[m
+Author: Estefano <stefanoamati152@gmail.com>
+Date:   Sat Mar 6 15:27:09 2021 -0400
+
+    Arreglado web-inf
+
+[33mcommit 291cc337cacffbcf053fc8788f4be9d2e3fb011d[m
+Author: Estefano <stefanoamati152@gmail.com>
+Date:   Sat Mar 6 15:22:07 2021 -0400
+
+    otro despliegue
+
+[33mcommit 5ce2a8ed270c7faca79f0994d7ee300fc9a9bd1b[m
+Author: Estefano <stefanoamati152@gmail.com>
+Date:   Sat Mar 6 15:15:33 2021 -0400
+
+    Con angular ahora
+
+[33mcommit e0e4ff114bbf35e3b8400f9f89bd2b13d20e8c7d[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Estefano <stefanoamati152@gmail.com>
+Date:   Sat Mar 6 13:43:53 2021 -0400
+
+    Cambiados content type
+
+[33mcommit 192068dffd08f88ca203380beb3c2d6b27bac1db[m
+Author: Estefano <stefanoamati152@gmail.com>
+Date:   Sat Mar 6 13:12:55 2021 -0400
+
+    Se generan mas servicios
+
+[33mcommit bc72526e7d6890988b7d6c3f4866f2766ec9612d[m
+Author: Estefano <stefanoamati152@gmail.com>
+Date:   Thu Feb 11 21:43:57 2021 -0400
+
+    quitada anotacion
+
+[33mcommit 2a2b1a264a6ed62ebb67566fa23978b7a414394e[m
+Author: Estefano <stefanoamati152@gmail.com>
+Date:   Thu Feb 11 21:36:30 2021 -0400
+
+    cambiada estructura
+
+[33mcommit c5d45e4ac4061021d6c1163b560ff3c886b4b2f7[m
+Author: Estefano <stefanoamati152@gmail.com>
+Date:   Thu Feb 11 21:12:29 2021 -0400
+
+    Ajuste
+
+[33mcommit 2a979ac79c1125e944644b66a4090eb92a5dc927[m
+Author: Estefano <stefanoamati152@gmail.com>
+Date:   Thu Feb 11 21:01:39 2021 -0400
+
+    initial commit
